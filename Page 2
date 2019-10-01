@@ -1,0 +1,109 @@
+<p><doctype html=""> <HEAD><meta charset="utf-8">
+<title>GALACTIC FOOTBALL</title>
+<style type="text/css">
+    body { background-color.#A9EAFE}
+    body { background-color: #A9EAFE}
+body {
+margin: 0;
+}
+
+#banner1 {
+display: block;
+background-color: #74D0F1;
+    height:50px ;
+    width: 100%;
+}
+
+#menu {
+width: 100%;
+height: 100px;
+position: relative;
+background-color:#A9EAFE;
+
+}
+
+#menu ul{
+float: left;
+left: 50%;
+position: relative;
+padding-top: 15px;
+margin-left: -60px;
+}
+
+#menu ul li {
+margin-left: 20px;
+     float: left;
+     list-style-type: none;
+     position: relative;
+     left: -50%;
+}
+
+#menu ul li a{
+text-align: center;
+padding-top: 10px;
+display: inline-block;
+background-color:#357AB7;
+height: 25px;
+width: 120px;
+color: black;
+text-decoration: none;
+}
+
+#menu ul li a:hover {
+color: white;
+background-color: #0095B6
+
+}
+
+#banner2 {
+display: block;
+background-color: #74D0F1;
+    height:50px ;
+    width: 100%;
+}
+
+</style>
+</HEAD>
+<BODY>
+<div id="banner1">
+</div>
+ <div id="menu">
+  <ul>
+  <li><a href="index.html">ACCUEIL</a></li>
+  <li><a href="Histoire.html">HISTOIRE</a></li>
+  <li><a href="Personnages.html">PERSONNAGES</a></li>
+
+  </ul>
+  </div>
+  <div id="banner2">
+  </div>
+  </style>
+</doctype></p>
+<p align="center"><span style="font size: 30px; color: black; font-family: optima, sans serif;">      
+
+Histoire
+L'arrivée des Humains dans la Galaxie
+
+Lorsque les Humains sont arrivés dans la Galaxie, ils ont découverts une multitude de peuples tous très différents, voir très bizarres, certains étaient de nature humanoïde. Certains pouvaient même les comprendre. Les Humains furent très bien accueillis, susitants curiosité voir intêret. Parmi ses peuples Lightnings, les Shadows, les Wambas, les Rykers, les Cyclopes.
+
+Les Humains s'installèrent sur une petite planète qu'ils nommèrent Akillian. Ils fondèrent une capitale : Arcadia. La planète était magnifique, couverte d'une végétation luxuriante. Ils exploitèrent ses ressources : métaux rares, sels minéraux ainsi que son eaux, d'une rare pureté, exportée dans toute la Galaxie. Ils établirent un commerce avec leurs voisins. Leur installation se fit dans la paix et l'harmonie...
+La Guerre des Fluides
+
+La paix dura jusqu'au jour où les Lightnings firent découvrir le Fluide aux Humains. Chaque planète dispose d'un Fluide, énergie subtile dont la provenance reste inconnue. Certains disent qu'il provient du noyau de leur planète, d'autres disent qu'il vient de la lune qui gravite autour de leur planète.  Le Fluide apparait après un effort ou un sentiment intense. Il augmente considérablement les capacités physiques et mentales jusqu'à un niveau magique. Il rend plus habile, plus fort, augmente la concentration : il donne un pouvoir surhumain. 
+
+Les Humains comprirent que s'ils avaient un Fluide en leur possession, ils deviendraient des surhommes. Hors le Fluide d'Akillian, le Souffle, est un fluide particulièrement fantasque, difficile à maîtriser, et n'est pas des plus spectaculaires comparaiment au Smog, le fluide des Shadows, ou à la Vague Ionique des Lightnings. Le Fluide ne peut pas se stoker, se vendre. Le seul moyen de l'avoir est de vivre sur la planète dont il émane.
+
+Les Humains décidèrent d'envahir Xzion et Obsurantis en déclarant la guerre aux peuples qui vivent sur ces planètes : les Lightningset les Shadows. Ce le début de ce qu'on appella la Guerre des Fluides, Guerre des Ombres ou encore Année sombres. Mais rapidement, ils se trouvèrent en position d'inferiorité face aux autres peuples de la Galaxie qui se liguèrent contre eux. Les combats furent atroces. Ils y eu des millions de morts et de bléssés, des peuples entiers faillirent disparaître. Enfin, les Humains comprirent qu'ils ne gangeraient jamais cette guerre, que l'on ne pouvait pas prendre un fluide comme un matériau rare. Ils retournèrent sur leur planète et la plupart abandonnèrent l'idée de dominer un jour la Galaxie. Cependant, certains gardèrent un esprit de revanche...
+La naissance du Galactik Football
+
+Pour se racheter et reconstruire la pais à travers la Galaxie, les Humains donnèrent aux peuples de la Galaxie le seul sport qui pouvait tous les réunir : le football. Ou plutôt le Galactik Football. Mais ce sport qu'ils avaient transmi aux peuples de la Galaxie fut celui où ils excellèrent le moins. Les Humains avaient en effet beaucoup de mal à rivaliser avec les autres équipes qui encore une fois grâce à leurs fluides, étaient beaucoup plus puissantes que les Akillians avec le Souffle. 
+La création du Cercle des Fluides
+
+Pour empêcher qu'une nouvelle guerre ne se déclare, les Lightnings créerent un conseil de sages, qu'ils appellèrent le Cercle des Fluides, pour empêcher toute utilisation illégale des Fluides. Les Fluides ne pouvaient être utiliser que dans un endroit, un terrain de football, lors d'un seul évènement : la Galactik Football Cup.
+La Grande Glaciation
+
+15 ans avant la création des Snow Kids, pour la première fois depuis sa création, une équipe d'Akillian parvint au niveau des meilleurs. Son capitaine était Aarch. Il avaiet des coéquipiers d'exception : son frère Norata, son meilleur ami Artegor Nexus, ainsi qu'Adim sa petite amie, devenue plus tard la présidente de la Ligue. Cette équipe s'était presque qualifiée pour les phases finales de la Cup. Ils disputaient leur dernier match des phases éliminatoires, à domicile, face aux Shadows. Le match sembleit basculer en faveur d'Akillian quand soudain, une terrible explosion s'abatit sur la planète. Le Grand Stade, plein à craquer, fit l'effet d'une souricière sur tous les spectateurs du match ansi que sur les joueurs. Il y eut de nombreux morts et bléssés, l'équipe fut anéantie. De plus, la planète sombra dans une grande phase de glaciation. La raison de cette explosion demeura inconnue:</span></p>
+<p align="center"><span style="font size: 30px; color: black; font-family: optima, sans serif;">GALACTIC FOOTBALL !!!</span></p>
+<p></p>
+
+</BODY>
