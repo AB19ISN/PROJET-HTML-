@@ -1,0 +1,90 @@
+<p><doctype html=""> 
+<title>GALACTIC FOOTBALL</title>
+<style type="text/css">
+    body { background-color.#A9EAFE}
+    body { background-color: #A9EAFE}
+body {
+
+margin: 0;
+}
+<li><a href="ONGLET2.html">HISTOIRE</a>
+#banner1 {
+display: block;
+background-color: #74D0F1;
+    height:50px ;
+    width: 100%;
+}
+
+#menu {
+width: 100%;
+height: 100px;
+position: relative;
+background-color:#A9EAFE;
+
+}
+
+#menu ul{
+float: left;
+left: 50%;
+position: relative;
+padding-top: 15px;
+margin-left: -60px;
+}
+
+#menu ul li {
+margin-left: 20px;
+     float: left;
+     list-style-type: none;
+     position: relative;
+     left: -50%;
+}
+
+#menu ul li a{
+text-align: center;
+padding-top: 10px;
+display: inline-block;
+background-color:#357AB7;
+height: 25px;
+width: 120px;
+color: black;
+text-decoration: none;
+}
+
+#menu ul li a:hover {
+color: white;
+background-color: #0095B6
+
+}
+
+#banner2 {
+display: block;
+background-color: #74D0F1;
+    height:50px ;
+    width: 100%;
+}
+
+</style>
+</HEAD>
+<BODY>
+<div id="banner1">
+</div>
+ <div id="menu">
+  <ul>
+  <li><a href="index.html">ACCUEIL</a></li>
+  <li><a href="Histoire.html">HISTOIRE</a></li>
+  <li><a href="Personnages.html">PERSONNAGES</a></li>
+
+  </ul>
+  </div>
+  <div id="banner2">
+  </div>
+  </style>
+</doctype></p>
+<p align="center"><span style="font size: 30px; color: black; font-family: optima, sans serif;"> CE SITE EST DEDIE A UN DESSIN ANIME DE QUALITEE SUPERIEURE BASE SUR LE FOOTBALL:</span></p>
+<p align="center"><span style="font size: 30px; color: black; font-family: optima, sans serif;">GALACTIC FOOTBALL !!!</span></p>
+<p></p>
+<FONT style="font-size:25px";FACE="optima, sans serif"><p align="center">
+  <a href="https://www.youtube.com/watch?v=Qu2HVS8pEmY"><IMG SRC=https://static.playmedia-cdn.net/img/tv_programs/24001-24500/24364_source.jpg
+  </p></FONT>
+  <p align="center"><span style="font size: 30px; color: black; font-family: optima, sans serif;">CLIQUEZ POUR LE GENERIQUE</span><p
+</BODY>
